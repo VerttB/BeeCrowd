@@ -12,7 +12,6 @@ while(age != 0):
     
   days = age
   age = 0
-
 print(f"""{year} ano(s)
 {month} mes(es)
 {days} dia(s)""")
